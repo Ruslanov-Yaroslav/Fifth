@@ -1,0 +1,14 @@
+C:\Main\Deleg\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.exe
+C:\Main\Deleg\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.deps.json
+C:\Main\Deleg\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.runtimeconfig.json
+C:\Main\Deleg\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.runtimeconfig.dev.json
+C:\Main\Deleg\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.dll
+C:\Main\Deleg\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.pdb
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.csproj.AssemblyReference.cache
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.AssemblyInfoInputs.cache
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.AssemblyInfo.cs
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.csproj.CoreCompileInputs.cache
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.dll
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.pdb
+C:\Main\Deleg\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.genruntimeconfig.cache
